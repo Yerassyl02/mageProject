@@ -13,5 +13,5 @@ docker-compose.override.yml
 logs/
 mage-ai.db
 mage_data/
-cred/
+cred/dtc-airbnb-422606-4d30a4b94ac5.json
 terraform.tfstate
